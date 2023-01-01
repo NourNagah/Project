@@ -1,6 +1,5 @@
 //CONNECTIONS START HERE
 
-//controller page
 
 
 // Import the express web framework
