@@ -7,7 +7,7 @@ var CVVErr=document.getElementById("msg");
 var AmountErr=document.getElementById("Amsg");
 let myform=document.getElementById("donnform");
 let mysubmit=document.querySelector('#donatenow');
-
+//fefi
 
 
 
