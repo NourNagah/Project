@@ -35,8 +35,6 @@ userSchema.statics.findAndValidate = async function(email, password) {
  };
  
 
-
-
  // Define a middleware function to hash the user's password before saving it to the database
  userSchema.pre('save', async function(next) {
     // If the password field has not been modified, move on to the next step
